@@ -1,0 +1,73 @@
+
+@font-face {
+	src: url("../fonts/GrandHotel-Regular.otf");
+	font-family: 'grand';
+}
+
+	.header{
+			background-image: url('../images/background.png');			
+		}
+
+		body{
+			margin: 0px;
+		}
+		.heading{
+			font-size: 70px;
+			/* font-family: 'sp'; */
+		}
+		.heading1{
+			font-size: 7vw;
+			font-family: 'sp' !important;
+/*			color: #3d2210;*/
+			color: brown;
+
+			text-shadow: 3px 3px #ffffff;
+
+		}
+		.heading2{
+			font-family: 'sp';
+			font-size: 6vw;
+			text-shadow: 1.5px #ffffff;
+		}
+		.header_bg{
+			background-color: #303030;
+		}
+		.header_heading{
+			font-size: 7vw;
+			color: #f6cf43;
+			font-family:'grand';
+		}
+		.header_sub_heading{
+			color: white;
+		}
+		.header_btn{
+			background-color: #f6cf43;
+		}
+		.best_seller_h{
+			font-family: 'grand';
+			font-size: 4vw;
+		}
+		.best_seller_product{
+			font-size: 2vw;
+			font-family: 'grand';
+		}
+		.orient_bg{
+			src: url('../images/orientalBackground.png');
+		}
+		.text{
+			font-family: 'grand';
+			font-size: 4vw;
+		}
+		.oriental_bg{
+			background-image: url('../images/orientalBackground.png');
+			background-size: cover;
+			height: 80vh;
+		}
+		.oriental_btn{
+			background-color: #f6cf43;
+		}
+		.oriental-heading{
+			font-family: 'grand';
+			font-size: 2vw;
+			color: white;
+		}
